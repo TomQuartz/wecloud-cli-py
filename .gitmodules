@@ -1,0 +1,3 @@
+[submodule "spilot-workload"]
+	path = spilot-workload
+	url = git@github.com:TomQuartz/spilot-workload.git
